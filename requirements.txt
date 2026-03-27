@@ -1,5 +1,6 @@
-sqlmodel==0.0.8
-matplotlib==3.8.2
-numpy==1.26.2
-streamlit==1.31.0
-pandas==2.2.0
+sqlmodel
+matplotlib
+numpy
+streamlit
+pandas
+Pillow
